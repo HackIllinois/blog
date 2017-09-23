@@ -16,9 +16,9 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cover.jpg"
 
-# name: 'Dirk Fabisch'
-# author: 'Dirk Fabisch'
-# author_image: "/assets/images/author.jpg"
+# name: ''
+# author: ''
+# author_image: ""
 
 paginate:	5
 
@@ -54,10 +54,3 @@ social:
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
