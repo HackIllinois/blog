@@ -1,19 +1,63 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
 # Site settings
-title: HackIllinois Blog
-email: contact@hackillinois.org
-description: > # this means to ignore newlines until "baseurl:"
-  The HackIllinois blog! Check out what we've been up to.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "blog.hackillinois.org" # the base hostname & protocol for your site
-twitter_username: hackillinois
-github_username:  hackillinois
+title: "HackIllinois"
+description: > # this means to ignore newlines until "email:"
+   The HackIllinois blog! Check out what we've been up to.
 
-# Build settings
-markdown: kramdown
+email: contact@hackillinois.org
+#blog logo
+logo: "/assets/images/logo.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/cover.jpg"
+
+# name: 'Dirk Fabisch'
+# author: 'Dirk Fabisch'
+# author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://blog.hackillinois.org" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@hackillinois'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/hackillinois
+    desc: Follow us on Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://facebook.com/hackillinois
+    desc: Connect with us on Facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/hackillinois
+    desc:	Check us out on GitHub
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
