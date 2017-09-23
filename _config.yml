@@ -16,8 +16,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cover.jpg"
 
-# name: ''
-# author: ''
+name: 'HackIllinois Team'
+author: 'HackIllinois Team'
 # author_image: ""
 
 paginate:	5

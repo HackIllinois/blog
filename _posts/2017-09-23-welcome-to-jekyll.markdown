@@ -4,6 +4,7 @@ title:  "Welcome to the HackIllinois Blog!"
 date:   2017-09-23 11:05:25
 categories: general
 tags: featured
+author: Yasha Mostofi
 ---
 
 Welcome to the HackIllinois Blog! 
