@@ -8,6 +8,8 @@ title: "HackIllinois"
 description: > # this means to ignore newlines until "email:"
    The HackIllinois blog! Check out what we've been up to.
 
+future: true
+
 email: contact@hackillinois.org
 #blog logo
 logo: "/assets/images/logo.png"
