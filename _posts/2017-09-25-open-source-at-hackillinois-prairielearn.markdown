@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Source at HackIllinois: PrairieLearn"
 date:   2017-09-25 9:00:00
-categories: general
+categories: spotlight
 tags: featured
 author: Nick Magerko
 ---
