@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "email:"
 email: contact@hackillinois.org
 #blog logo
 logo: "/assets/images/logo.png"
-float_logo: true # true, false (default)
+float_logo: false
 
 # blog cover
 cover: "/assets/images/cover.jpg"
