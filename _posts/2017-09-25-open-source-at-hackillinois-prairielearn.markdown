@@ -5,6 +5,7 @@ date:   2017-09-25 9:00:00
 categories: spotlight
 tags: featured
 author: Nick Magerko
+published: false
 ---
 
 Last year, HackIllinois introduced the open-source college hackathon. Our primary goal was to support student developers in giving back to the open-source community. 
