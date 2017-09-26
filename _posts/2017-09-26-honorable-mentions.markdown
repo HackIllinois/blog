@@ -12,7 +12,7 @@ Last year, HackIllinois decided to go all open source in order to encourage sust
 
 ### [Transit Networks](https://github.com/TransitNetworkGroup/Transit-Network)
 
-Inspired by a prototype for an issue reporting system for the CTA (Chicago Transit Authority), Transit Networks was born at Hackillinois. Team members, Viktor Koves, Robert Altman, Grant Reszcyk, CJ Bennett, & Chalyn Elkin expanded on the idea and envisioned a system that could power issue reporting for transit agencies worldwide with little manual work.
+Inspired by a prototype for an issue reporting system for the CTA (Chicago Transit Authority), Transit Networks was born at HackIllinois. Team members, Viktor Koves, Robert Altman, Grant Reszcyk, CJ Bennett, & Chalyn Elkin expanded on the idea and envisioned a system that could power issue reporting for transit agencies worldwide with little manual work.
 
 At HackIllinois, the team created a Ruby on Rails web application with the help of mentor, Marc Andre. They were able to use the General Transit Feed Specification to gather data from transit networks to create sites and populate their SQL database as well as create a basic interface for their product.
 
@@ -28,7 +28,7 @@ This experience inspired Christina to focus her efforts into encouraging and edu
 
 <img src="/assets/article_images/skirt.gif" style="display: block; margin: auto;" />
 
-### [AirOnTime](www.github.com/a-sahdev/airontime)
+### [AirOnTime](http://www.github.com/a-sahdev/airontime)
 
 The idea first struck Amber Sahdev while she was at the airport, waiting for her flight which had just been delayed. It was an idea that stayed with her until the night of HackIllinois where she shared her vision for this project with friend, Zachry Collins, and they began to work together to create AirOnTime.
 
@@ -38,7 +38,7 @@ At HackIllinois, Amber and Zachry worked with the mentors available to set up a 
 
 Their work did not stop there though. Knowing that they were solving a real world problem, Amber and Zachry remained motivated to work on their project even after HackIllinois. They took the feedback and resources they received and used them to further improve their product and make it more accurate by no longer relying on outdated API data from big airlines. Instead, they are now using and cleaning the data collected by the US government to provide better search results. They have also added a number of new features to their service and plan on continuing to expand the scope of their project and improve service to make their website faster and more reliable.
 
-Check them out [here](www.aironti.me)!
+Check them out [here](http://www.aironti.me)!
 
 
 Congratulations to all the teams for their continued efforts over these past few months and their dedication to the open-source community. 
