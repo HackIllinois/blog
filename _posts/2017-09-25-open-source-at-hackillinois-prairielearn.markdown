@@ -18,7 +18,7 @@ For many of our attendees, work on their projects didn’t stop when our event c
 ### PrarieLearn
 The project we’d like to spotlight is [PraireLearn](https://github.com/PrairieLearn/PrairieLearn), an online problem-driven learning system for creating homeworks and tests used at the University of Illinois.
 
-At HackIllinois, Nathan Walters, Jordi Paris Ferrer, Genevieve Helsel, and Teju Nareddy worked together with project maintainer and UIUC I Associate Professor Matt West to add new features to the PrairieLearn system. 
+At HackIllinois, Nathan Walters, Jordi Paris Ferrer, Genevieve Helsel, and Teju Nareddy worked together with project maintainer and UIUC Associate Professor Matt West to add new features to the PrairieLearn system. 
 
 The team came in contact with Matt West at our JavaScript Contribute session, where the PrairieLearn project was seeking out students to help create a real-time autograding system for code submitted through the PrairieLearn system during an exam. Recognizing the potential user impact and technical challenges of a rapid code feedback system, the four of them began hacking up a prototype. 
 
