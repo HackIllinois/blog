@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source at HackIllinois: Honorable Mentions"
 date:   2017-09-26 12:00:00
 categories: general
-tags: featured
 image: /assets/article_images/honorable_mentions_cover.jpg
 author: Garima Gupta
 ---
