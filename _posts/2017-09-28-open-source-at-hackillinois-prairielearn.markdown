@@ -15,8 +15,8 @@ For many of our attendees, work on their projects didn’t stop when our event c
 
 This feature is the second part of a three part series detailing some of the projects that have kept on going after HackIllinois 2017. Read about our Long Con winners here:
 
-* [Honorable Mentions]({{ site.baseurl }}{% link _posts/2017-09-26-honorable-mentions.markdown %})
-* [Create Track Winner]({{ site.baseurl }}{% link _posts/2017-09-29-open-source-at-hackillinois-rust-cookbook.markdown %})
+* [Honorable Mentions]({{ site.baseurl }}{% post_url 2017-09-26-honorable-mentions %})
+* [Create Track Winner]({{ site.baseurl }}{% post_url 2017-09-29-open-source-at-hackillinois-rust-cookbook %})
 
 ## PrarieLearn
 We’re happy to announce that the winner of the Long Con for the Contribute track is [PraireLearn](https://github.com/PrairieLearn/PrairieLearn), an online problem-driven learning system for creating homeworks and tests used at the University of Illinois.
