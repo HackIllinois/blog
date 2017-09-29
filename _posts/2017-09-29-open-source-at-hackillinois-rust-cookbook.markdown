@@ -16,8 +16,8 @@ For many of our attendees, work on their projects didn’t stop when our event c
 
 This feature is the third part of a three part series detailing some of the projects that have kept on going after HackIllinois 2017. Read about our Long Con winners here:
 
-* [Honorable Mentions]({{ site.baseurl }}{% link _posts/2017-09-26-honorable-mentions.markdown %})
-* [Contribute Track Winner]({{ site.baseurl }}{% link _posts/2017-09-25-open-source-at-hackillinois-prairielearn.markdown %})
+* [Honorable Mentions]({{ site.baseurl }}{% post_url 2017-09-26-honorable-mentions %})
+* [Contribute Track Winner]({{ site.baseurl }}{% post_url 2017-09-28-open-source-at-hackillinois-prairielearn %})
 
 ## Rust Cookbook
 We’re happy to announce that the winner of the Long Con for the Create track is [Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook).  The Rust Cookbook is a project is to help acclimate users to the Rust language with some tangible code examples, as well as showcase various libraries created by the Rust community.  This project provides one location for all of these materials to be put together, allowing beginners to have an easier time starting with Rust.

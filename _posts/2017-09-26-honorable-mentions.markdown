@@ -14,8 +14,8 @@ For many of our attendees, work on their projects didn’t stop when our event c
 
 This feature is the first part of a three part series detailing some of the projects that have kept on going after HackIllinois 2017. Read about our Long Con winners here:
 
-* [Contribute Track Winner]({{ site.baseurl }}{% link _posts/2017-09-25-open-source-at-hackillinois-prairielearn.markdown %})
-* [Create Track Winner]({{ site.baseurl }}{% link _posts/2017-09-29-open-source-at-hackillinois-rust-cookbook.markdown %})
+* [Contribute Track Winner]({{ site.baseurl }}{% post_url 2017-09-28-open-source-at-hackillinois-prairielearn %})
+* [Create Track Winner]({{ site.baseurl }}{% post_url 2017-09-29-open-source-at-hackillinois-rust-cookbook %})
 
 Here are some of our honorable mentions for the Long Con award: 
 
