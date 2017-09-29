@@ -12,11 +12,15 @@ Last year, HackIllinois introduced the open-source college hackathon. Our primar
 
 Our event offered two tracks. In the Create Track, we guided students towards the creation of new, maintainable projects. In the Contribute Track, we connected students with the maintainers of existing popular open-source projects, encouraging them to learn about these projects and become contributors themselves throughout the weekend.
 
-### Beyond the Event
 For many of our attendees, work on their projects didn’t stop when our event came to an end. We’ve watched as the projects and contributions that started at HackIllinois have matured. Today, we’d like to share some of the amazing work our attendees have done in the six months that followed HackIllinois 2017.
 
-### PrarieLearn
-The project we’d like to spotlight is [PraireLearn](https://github.com/PrairieLearn/PrairieLearn), an online problem-driven learning system for creating homeworks and tests used at the University of Illinois.
+This feature is the second part of a three part series detailing some of the projects that have kept on going after HackIllinois 2017. Read about our Long Con winners here:
+
+* [Honorable Mentions]()
+* [Create Track Winner]()
+
+## PrarieLearn
+We’re happy to announce that the winner of the Long Con for the Contribute track is [PraireLearn](https://github.com/PrairieLearn/PrairieLearn), an online problem-driven learning system for creating homeworks and tests used at the University of Illinois.
 
 At HackIllinois, Nathan Walters, Jordi Paris Ferrer, Genevieve Helsel, and Teju Nareddy worked together with project maintainer and UIUC Associate Professor Matt West to add new features to the PrairieLearn system. 
 

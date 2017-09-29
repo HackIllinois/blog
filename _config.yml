@@ -19,7 +19,7 @@ cover: "/assets/images/cover.jpg"
 
 name: 'HackIllinois Team'
 author: 'HackIllinois Team'
-# author_image: ""
+author_image: "/assets/images/logo.png"
 
 paginate:	5
 

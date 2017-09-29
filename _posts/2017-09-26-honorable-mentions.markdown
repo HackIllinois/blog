@@ -6,10 +6,20 @@ categories: general
 image: /assets/article_images/honorable_mentions_cover.jpg
 author: Garima Gupta
 ---
+Last year, HackIllinois introduced the open-source college hackathon. Our primary goal was to support student developers in giving back to the open-source community. 
 
-Last year, HackIllinois decided to go all open source in order to encourage sustainability and giving back to the open-source community. We received many great submissions. However, there are a few projects that have gone above and beyond and continued to contribute in the months following HackIllinois. In today’s post, we’d like to feature some honorable mentions for the Long Con award. 
+Our event offered two tracks. In the Create Track, we guided students towards the creation of new, maintainable projects. In the Contribute Track, we connected students with the maintainers of existing popular open-source projects, encouraging them to learn about these projects and become contributors themselves throughout the weekend.
 
-### [Transit Networks](https://github.com/TransitNetworkGroup/Transit-Network)
+For many of our attendees, work on their projects didn’t stop when our event came to an end. We’ve watched as the projects and contributions that started at HackIllinois have matured. Today, we’d like to share some of the amazing work our attendees have done in the six months that followed HackIllinois 2017.
+
+This feature is the first part of a three part series detailing some of the projects that have kept on going after HackIllinois 2017. Read about our Long Con winners here:
+
+* [Contribute Track Winner]()
+* [Create Track Winner]()
+
+Here are some of our honorable mentions for the Long Con award: 
+
+## [Transit Networks](https://github.com/TransitNetworkGroup/Transit-Network)
 
 Inspired by a prototype for an issue reporting system for the CTA (Chicago Transit Authority), Transit Networks was born at HackIllinois. Team members, Viktor Koves, Robert Altman, Grant Reszcyk, CJ Bennett, & Chalyn Elkin expanded on the idea and envisioned a system that could power issue reporting for transit agencies worldwide with little manual work.
 
@@ -19,7 +29,7 @@ After HackIllinois, the team continued to work on their project and brought it a
 
 For the future, they plan to keep working on the project at Chi Hack Nights, focusing on their initial prototype geared towards the Chicago Transit Authority and will eventually work towards reaching out to civic technologists across the country to help them setup their own Transit Network instances.
 
-### TechStyles
+## TechStyles
 
 At the intersection of computer science and the arts, Christina Ernst combined her passions of programming and sewing to submit one of the more unique projects seen at HackIllinois. TechStyles is a bluetooth integrated color-changing dress which can be controlled by any Apple device using the interface Christina created at HackIllinois. Christina didn’t expect much more than the successful completion of her project, so she was surprised when during the exhibition her dress brought the attention of many attendees asking for detailed instructions of how to recreate her project in their own time.
 
@@ -27,7 +37,7 @@ This experience inspired Christina to focus her efforts into encouraging and edu
 
 <img src="/assets/article_images/skirt.gif" style="display: block; margin: auto;" />
 
-### [AirOnTime](http://www.github.com/a-sahdev/airontime)
+## [AirOnTime](http://www.github.com/a-sahdev/airontime)
 
 The idea first struck Amber Sahdev while she was at the airport, waiting for her flight which had just been delayed. It was an idea that stayed with her until the night of HackIllinois where she shared her vision for this project with friend, Zachry Collins, and they began to work together to create AirOnTime.
 
