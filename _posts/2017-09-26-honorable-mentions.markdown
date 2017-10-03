@@ -39,13 +39,13 @@ This experience inspired Christina to focus her efforts into encouraging and edu
 
 ## [AirOnTime](http://www.github.com/a-sahdev/airontime)
 
-The idea first struck Amber Sahdev when he was at the airport, waiting for his flight which had just been delayed. It was an idea that stayed with him until the first night of HackIllinois where he shared his vision for this project with friend Zachry Codiamat, and they began to work together to create AirOnTime.
+The idea first struck Amber Sahdev when he was at the airport, waiting for his flight which had just been delayed. It was an idea that stayed with him until the first night of HackIllinois, where he shared his vision for this project with friend Zachary Codiamat, and they began to work together to create AirOnTime.
 
 AirOnTime is a website that estimates the likelihood of a particular flight being delayed before you book your tickets and provides you with other more reliable options for the same route.
 
-At HackIllinois, Amber and Zachry worked with the mentors available to set up a basic framework for their website and refine their idea, making it more concrete. Most importantly though, they were taken by the spirit of open source and learned how to collaborate and contribute to this project as a team, allowing for a more sustainable project.
+At HackIllinois, Amber and Zachary worked with the mentors available to set up a basic framework for their website and refine their idea, making it more concrete. Most importantly though, they were taken by the spirit of open source and learned how to collaborate and contribute to this project as a team, allowing for a more sustainable project.
 
-Their work did not stop there though. Knowing that they were solving a real world problem, Amber and Zachry remained motivated in working on their project even after HackIllinois. They took the feedback and resources they received and used them to further improve their product and make it more accurate. Rather than relying on outdated API data from big airlines, they are now using and cleaning the data collected by the US government to provide better search results. They have also added a number of new features to their service and plan on continuing to expand the scope of their project to improve service and make their website faster and more reliable.
+Their work did not stop there though. Knowing that they were solving a real world problem, Amber and Zachary remained motivated in working on their project even after HackIllinois. They took the feedback and resources they received and used them to further improve their product and make it more accurate. Rather than relying on outdated API data from big airlines, they are now using and cleaning the data collected by the US government to provide better search results. They have also added a number of new features to their service and plan on continuing to expand the scope of their project to improve service and make their website faster and more reliable.
 
 Check them out [here](http://www.aironti.me)!
 
