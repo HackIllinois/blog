@@ -3,7 +3,7 @@ layout: post
 title:  "Open Source at HackIllinois: Rust Cookbook"
 date:   2017-09-29 12:00:00
 categories: spotlight
-tags: featured
+tags: HackIllinois2017
 image: /assets/article_images/rust_cover.jpg
 author: Aashish Kapur
 ---
