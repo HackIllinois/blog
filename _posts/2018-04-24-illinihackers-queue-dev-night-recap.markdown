@@ -5,7 +5,7 @@ title:  "The Return of the HackNight"
 date:   2018-04-24 12:00:00
 categories: recap
 tags: IlliniHackers, HackNight
-image: /assets/article_images/rust_cover.jpg
+image: /assets/article_images/queue_dev_night/hacking2.jpg
 author: Rishi Desai
 ---
 ```
