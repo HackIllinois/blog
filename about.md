@@ -10,7 +10,7 @@ HackIllinois is a 36 hour, student-run collegiate hackathon that focuses on maki
 
 # How do Hackers at HackIllinois work on Open Source?
 
-The HackIllinois Staff works really hard to bring in mentors from different open source projects to help students get started on contributing to OSS. These mentors work alongside hackers to make pull requests, solve issues, and create features with popular open source software. 
+The HackIllinois Staff works hard to bring in mentors from different open source projects to help students get started on contributing to OSS. These mentors work alongside hackers to make pull requests, solve issues, and create features with popular open source software. 
 
 # How do I get involved with HackIllinois?
 
