@@ -1,28 +1,47 @@
 ---
 layout: post
 title: "Dreamt it. Built it. HackIllinois 2018, A Recap."
-date: 2018-04-28 00:00:00
+date: 2018-05-19 00:00:00
 categories: recap
 tags: HackIllinois2018
-image: /assets/article_images/hackillinois_2018.jpg
+image: /assets/article_images/2018_recap_cover.jpg
 author: Justin Yang
 ---
 
-This February, HackIllinois welcomed over a thousand students to the University of Illinois at Urbana-Champaign for an excitement-packed weekend to develop open-source projects.
+This February, HackIllinois welcomed over 1000 students to the University of Illinois at Urbana-Champaign for a developement-filled weekend where students from across the Midwest and the country gathered to make contributions to open source projects. Over the course of just 36 hours, attendees made signifigant contributions, making over [94 submissions](https://hackillinois-2018.devpost.com/submissions) by the end!
 
-HackIllinois 2018 kicked off Friday afternoon, with students lining up for registration and to chat with sponsors at the company expo. After everyone filled up on dinner from Panda Express and Kohinoor, they heard opening remarks from the Opening Ceremony. Attendees then broke out into two panels based on their interests: Web & Data and Systems where open-source mentors spoke about their projects and the open-source community in general.
+![opening ceremony](/assets/article_images/ceremony.jpg "HackIllinois 2018 kicks off!")
 
-Attendees, however, weren't just at HackIllinois to hear about open source. As the panels concluded, attendees formed into groups via the project matching sessions to work on open-source projects -- be it with open-source projects to improve popular open-source projects such as Rust and Freenode.
+With the focus on open source at HackIllinois, attendees spent the weekend learning about and building out new open source features and tools that tackled issues in many different fields. HackIllinois kicked off with panels on Web/Data and Systems/Miscellaneous after the Opening Ceremony. Mentors presented some of the projects students could join, after which students joined groups they were interested in.
 
-Groups worked on their projects throughout the weekend with the goal of starting meaningful contributions to their open-source projects. As attendees worked with their mentors to learn the ups and downs of their projects and strode to make changes and submit pull requests, along the way they learned about new technologies at workshops ranging from virtual reality to machine learning, as well as lightning talks from fellow students about such disparate topics as memes and documentation.
+![panel](/assets/article_images/panel.jpg "Mentors talk about open source at the Web/Data panel")
 
-HackIllinois 2018 also featured keynotes from Katy Huff, Illinois professor in NPRE; Steve Klabnik, Rust; Vijay Pai, Google; and Travis Oliphant, numpy/scipy/anaconda; who spoke about powerful ideas in the open-source community.
+Attendees worked late into the night starting on their projects: mentors taught students how to set up their environments and basics of the project and how to make contributions.
 
-Still, it wasn't all about pure development. Sppnsors provided plenty of fun activities to take a break, including video games and puzzles in their lounges, for instance. Many attendees also stepped out for fun games of nerf or to play with the therapy dogs.
+![food](/assets/article_images/food.jpg "Attendees fill up on food to fuel them through the night")
 
-As the hacking deadline approached Sunday morning, groups worked hard to finish up and put on the final touches. Groups presented their open-source contributions to our judges and everyone else in attendence.
+HackIllinois also featured a wide array of talks and workshops. There were many presentations on interesting techical topics such as machine learning and virtual reality, as well as sessions focused specifically on open source, such as the Women in Open Source panel. Some attendees also prepared short lightning talks on a variety of diverse topics, from networking to memes.
 
-After the closing ceremony, students piled onto buses back to Chicago, Indiana, Michigan, and even Georgia and Florida! And with that, HackIllinois 2018 came to a close.
+![women in open source panel](/assets/article_images/wos.jpg "Lively discussion at the women in open source panel")
+
+There were also some great keynotes from members of the open source community. Travis Oliphant, the creator of NumPy and SciPy and the CEO of Anaconda, spoke about open source and changes in data science. Vijay Patel, a software engineer at Google, discussed his work on gRPC and other open source projects in his time at Google. Katy Huff, an associate professor at Illinois, and Steve Klabnik, a member of the Rust core team, both also spoke about their experiences in open source.
+
+![Travis Oliphant keynote](/assets/article_images/travis.jpg "Travis Oliphant talks about his company Quansight in his keynote")
+
+Throughout the weekend, there were all sorts of activities to take a break from coding. Our sponsors set out swag at their tables and games in their lounges.
+
+![Pickles the wolf](/assets/article_images/pickles.jpg "Pickles the wolf hangs out in the IMO lounge")
+
+Tons of attendees had fun playing Nerf at the Kenney Gym on Saturday. As is tradition, the last game was a Hackillinois staff versus sponsor round.
+
+![Nerf battle](/assets/article_images/nerf.jpg "Battling it out at Nerf")
+
+Sunday morning brought the end of hacking, and groups wrapped up their contributions and documented their work on Devpost in preparation for demos. Some therapy dogs visited and brought a smile to many a face.
+
+![doggo](/assets/article_images/dog.jpg "Taking a break with the cute doggo")
+
+By the end, there were tons of excitement in the air as judges went around and checked out the contributions made. For open source contributors all around, there was much learned and created.
+
+![project demo](/assets/article_images/demo.jpg "A group presents their contributions at the project expo")
 
 Watch out for registration for HackIllinois 2019 on our website at [hackillinois.org](https://hackillinois.org)! And if you're intested in getting involved as a sponsor or mentor, be sure to reach out to us at [contact@hackillinois.org].
-
