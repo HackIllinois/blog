@@ -8,7 +8,7 @@ image: /assets/article_images/hackillinois-2018-recap/2018_recap_cover.jpg
 author: Justin Yang
 ---
 
-This February, HackIllinois welcomed over 1000 students to the University of Illinois at Urbana-Champaign for a developement-filled weekend where students from across the Midwest and the country gathered to make contributions to open source projects. Over the course of just 36 hours, attendees made signifigant contributions, making over [94 submissions](https://hackillinois-2018.devpost.com/submissions) by the end!
+This February, HackIllinois welcomed over 1000 students to the University of Illinois at Urbana-Champaign for a development-filled weekend where students from across the Midwest and the country gathered to make contributions to open source projects. Over the course of just 36 hours, attendees made significant contributions, making over [94 submissions](https://hackillinois-2018.devpost.com/submissions) by the end!
 
 ![opening ceremony](/assets/article_images/hackillinois-2018-recap/ceremony.jpg "HackIllinois 2018 kicks off!")
 
@@ -20,7 +20,7 @@ Attendees worked late into the night starting on their projects: mentors taught 
 
 ![food](/assets/article_images/hackillinois-2018-recap/food.jpg "Attendees fill up on food to fuel them through the night")
 
-HackIllinois also featured a wide array of talks and workshops. There were many presentations on interesting techical topics such as machine learning and virtual reality, as well as sessions focused specifically on open source, such as the Women in Open Source panel. Some attendees also prepared short lightning talks on a variety of diverse topics, from networking to memes.
+HackIllinois also featured a wide array of talks and workshops. There were many presentations on interesting technical topics such as machine learning and virtual reality, as well as sessions focused specifically on open source, such as the Women in Open Source panel. Some attendees also prepared short lightning talks on a variety of diverse topics, from networking to memes.
 
 ![women in open source panel](/assets/article_images/hackillinois-2018-recap/wos.jpg "Lively discussion at the women in open source panel")
 
@@ -32,7 +32,7 @@ Throughout the weekend, there were all sorts of activities to take a break from 
 
 ![Pickles the wolf](/assets/article_images/hackillinois-2018-recap/pickles.jpg "Pickles the wolf hangs out in the IMO lounge")
 
-Tons of attendees had fun playing Nerf at the Kenney Gym on Saturday. As is tradition, the last game was a Hackillinois staff versus sponsor round.
+Tons of attendees had fun playing Nerf at the Kenney Gym on Saturday. As is tradition, the last game was a HackIllinois staff versus sponsor round.
 
 ![Nerf battle](/assets/article_images/hackillinois-2018-recap/nerf.jpg "Battling it out at Nerf")
 
@@ -44,4 +44,4 @@ By the end, there were tons of excitement in the air as judges went around and c
 
 ![project demo](/assets/article_images/hackillinois-2018-recap/demo.jpg "A group presents their contributions at the project expo")
 
-Watch out for registration for HackIllinois 2019 on our website at [hackillinois.org](https://hackillinois.org)! And if you're intested in getting involved as a sponsor or mentor, be sure to reach out to us at [contact@hackillinois.org].
+Watch out for registration for HackIllinois 2019 on our website at [hackillinois.org](https://hackillinois.org)! And if you're interested in getting involved as a sponsor or mentor, be sure to reach out to us at [contact@hackillinois.org].
