@@ -12,7 +12,7 @@ This February, HackIllinois welcomed over 1000 students to the University of Ill
 
 ![opening ceremony](/assets/article_images/hackillinois-2018-recap/ceremony.jpg "HackIllinois 2018 kicks off!")
 
-With the focus on open source at HackIllinois, attendees spent the weekend learning about and building out new open source features and tools that tackled issues in many different fields. HackIllinois kicked off with panels on Web/Data and Systems/Miscellaneous after the Opening Ceremony. Mentors presented some of the projects students could join, after which students joined groups they were interested in.
+With the focus on open source at HackIllinois, attendees spent the weekend learning about and building out new open source features and tools that tackled issues in many different fields. HackIllinois kicked off with panels on Web/Data and Systems/Miscellaneous after the Opening Ceremony. Mentors presented their projects, after which students joined groups they were interested in.
 
 ![panel](/assets/article_images/hackillinois-2018-recap/panel.jpg "Mentors talk about open source at the Web/Data panel")
 
@@ -36,7 +36,7 @@ Tons of attendees had fun playing Nerf at the Kenney Gym on Saturday. As is trad
 
 ![Nerf battle](/assets/article_images/hackillinois-2018-recap/nerf.jpg "Battling it out at Nerf")
 
-Sunday morning brought the end of hacking, and groups wrapped up their contributions and documented their work on Devpost in preparation for demos. Some therapy dogs visited and brought a smile to many a face.
+Sunday morning brought the end of hacking, and groups wrapped up their contributions and documented their work on Devpost in preparation for demos. Some therapy dogs visited and brought smiles to many faces.
 
 ![doggo](/assets/article_images/hackillinois-2018-recap/dog.jpg "Taking a break with the cute doggo")
 
