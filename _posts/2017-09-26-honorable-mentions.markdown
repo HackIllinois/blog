@@ -3,7 +3,7 @@ layout: post
 title:  "Open Source at HackIllinois: Honorable Mentions"
 date:   2017-09-26 12:00:00
 categories: general
-image: /assets/article_images/honorable_mentions_cover.jpg
+image: /assets/article_images/honorable-mentions/honorable_mentions_cover.jpg
 author: Garima Gupta
 ---
 Last year, HackIllinois introduced the open-source college hackathon. Our primary goal was to support student developers in giving back to the open-source community. 
@@ -35,7 +35,7 @@ At the intersection of computer science and the arts, Christina Ernst’s projec
 
 This experience inspired Christina to focus her efforts into encouraging and educating young women to learn more about technology and hardware.  Since HackIllinois, she has prototyped 10 beginner-friendly Arduino projects that combine art and science, and, with a sponsor grant she received from 1517, that initiative will be expanded into a full book aimed specifically at young girls. These projects are designed to introduce a broad spectrum of hardware components and programming concepts. Christina’s goal with this book is to give young women a working skill set in tech, arming them with confidence that they are not merely hiring quotas but creative and capable future engineers. Throughout this journey, she has garnered an enthusiastic community of supporters ready to back this project, so be on be on the lookout for a kickstarter campaign next year to get this book published!
 
-<img src="/assets/article_images/skirt.gif" style="display: block; margin: auto;" />
+<img src="/assets/article_images/honorable-mentions/skirt.gif" style="display: block; margin: auto;" />
 
 ## [AirOnTime](http://www.github.com/a-sahdev/airontime)
 

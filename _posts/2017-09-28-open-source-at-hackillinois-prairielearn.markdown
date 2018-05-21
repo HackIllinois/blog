@@ -3,7 +3,7 @@ layout: post
 title:  "Open Source at HackIllinois: PrairieLearn"
 date:   2017-09-28 13:00:00
 categories: spotlight
-image: /assets/article_images/prairielearn_cover.jpg
+image: /assets/article_images/open-source-at-hackillinois-prairielearn/prairielearn_cover.jpg
 author: Nick Magerko
 ---
 
@@ -32,4 +32,3 @@ The two wrote autograde-able problems for UIUC’s CS 225 (Data Structures) to t
 The group still has plans to continue development. They hope to stay ahead of the rapid adoption of their feature by improving user experience, adding instructor utilities (such as a dashboard), and revamping their documentation. And in the end, they plan to stay involved with PrairieLearn even after their feature hits maturity.
 
 Congratulations to the PrairieLearn team, and thank you for your valuable contributions to the open-source community!
-

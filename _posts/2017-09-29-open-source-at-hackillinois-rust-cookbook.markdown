@@ -4,7 +4,7 @@ title:  "Open Source at HackIllinois: Rust Cookbook"
 date:   2017-09-29 12:00:00
 categories: spotlight
 tags: HackIllinois2017
-image: /assets/article_images/rust_cover.jpg
+image: /assets/article_images/open-source-at-hackillinois-rust-cookbook/rust_cover.jpg
 author: Aashish Kapur
 ---
 
@@ -31,5 +31,3 @@ Since the project was started, there have been countless readers of the Cookbook
 However, there’s still more work to be done. Whether it’s adding examples for the many cutting-edge Rust libraries being developed, or refining the current code snippets, contributions are always welcome. Rust is a fast growing language and to fit this demand, the team is looking to get more people involved and increase awareness about the project. The goal is to get featured on the official Rust documentation once the Cookbook has matured enough.
 
 Congratulations again to the HackIllinois Rust Cookbook team!
-
-

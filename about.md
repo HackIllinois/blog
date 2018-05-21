@@ -6,7 +6,7 @@ permalink: /about/
 
 # What is HackIllinois?
 
-HackIllinois is a 36 hour, student-run collegiate hackathon that focuses on making the open source community more accessible to college students. HackIllinois happens in February every year and brings in over 1,100 students from around the country. 
+HackIllinois is a 36-hour, student-run collegiate hackathon that focuses on making the open source community more accessible to college students. HackIllinois happens in February every year and brings in over 1,100 students from around the country. 
 
 # How do Hackers at HackIllinois work on Open Source?
 
