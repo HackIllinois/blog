@@ -24,7 +24,7 @@ HackIllinois also featured a wide array of talks and workshops. There were many 
 
 ![women in open source panel](/assets/article_images/hackillinois-2018-recap/wos.jpg "Lively discussion at the women in open source panel")
 
-There were also some great keynotes from members of the open source community. Travis Oliphant, the creator of NumPy and SciPy and the CEO of Anaconda, spoke about open source and changes in data science. Vijay Patel, a software engineer at Google, discussed his work on gRPC and other open source projects in his time at Google. Katy Huff, an associate professor at Illinois, and Steve Klabnik, a member of the Rust core team, both also spoke about their experiences in open source.
+There were also some great keynotes from members of the open source community. Travis Oliphant, the creator of NumPy and SciPy and the CEO of Anaconda, spoke about open source and changes in data science. Vijay Pai, a software engineer at Google, discussed his work on gRPC and other open source projects in his time at Google. Katy Huff, an associate professor at Illinois, and Steve Klabnik, a member of the Rust core team, both also spoke about their experiences in open source.
 
 ![Travis Oliphant keynote](/assets/article_images/hackillinois-2018-recap/travis.jpg "Travis Oliphant talks about his company Quansight during his keynote")
 
