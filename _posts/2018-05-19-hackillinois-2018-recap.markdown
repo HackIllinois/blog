@@ -32,7 +32,7 @@ Throughout the weekend, there were all sorts of activities to take a break from 
 
 ![Pickles the wolf hangs out in the IMO lounge](/assets/article_images/hackillinois-2018-recap/pickles.jpg "Pickles the wolf")
 
-Sponsors were also a huge presence at HackIllinois. Students chatted with company representatives at the company expo and throughout the event about the companies and job opportunities, as well as the technologies that the sponsor companies used or produced. Many sponsors even brought along their own contingents of mentors to work with students on open source at HackIllinois; quite a few of the sponsors were excited to develop on the projects that use at work.
+Sponsors were also a huge presence at HackIllinois. Students chatted with company representatives at the company expo and throughout the event about the companies and job opportunities, as well as the technologies that the sponsor companies used or produced. Many sponsors even brought along their own contingents of mentors to work with students on open source at HackIllinois; quite a few of the sponsors were excited to develop on the projects that they use at work.
 
 ![A student and sponsor representatives chat at the company expo](/assets/article_images/hackillinois-2018-recap/sponsor.jpg "company expo")
 
