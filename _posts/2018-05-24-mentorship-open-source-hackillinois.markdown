@@ -42,9 +42,7 @@ Sponsors at HackIllinois had a great presence in Open Source as well! Companies 
 
 Companies also had the option to interact with hackers in many other ways too. Some companies sponsored a prize and were able to present it to the project of their choice at the end of the event, and some companies even had personalized lounges for hackers to work in!
 
-```
-<center>&middot; &middot; &middot;</center>
-```
+<center>&middot;&middot;&middot;</center>
 
 We're incredibly happy that open source was such a success at HackIllinois 2018, and aim to continue the contributions next year at HackIllinois 2019! In the meantime, make sure to check out [our other recent post](https://blog.hackillinois.org/recap/2018/05/19/hackillinois-2018-recap.html) by staff member Justin Yang recapping the entirety of HackIllinois 2018.
 
