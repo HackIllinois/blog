@@ -38,7 +38,7 @@ HackIllinois was home to lots of smaller, growing Open Source projects, too, lik
 
 HackIllinois did not limit students to only contributing to Open Source projects, though. Many students developed their own Open Source projects to give back to the community with their own new ideas. One project, [Puppeteer To Istanbul](https://github.com/istanbuljs/puppeteer-to-istanbul), even has 70+ stars on GitHub as of the time of publication, and was even mentioned in a [talk](https://youtu.be/lhZOFUY1weo?t=19m5s) at Google I/O. And it was born right here at HackIllinois.
 
-![The Puppeteer to Istanbul team presenting at the closing ceremonies](/assets/article_images/mentors-open-source-hackillinois/puppeteer.jpg "puppeteer")
+![The hackers from the Puppeteer to Istanbul project present at closing ceremonies](/assets/article_images/open-source-hackillinois-2018/puppeteer.jpg "puppeteer")
 
 <center>&middot;&middot;&middot;</center>
 
