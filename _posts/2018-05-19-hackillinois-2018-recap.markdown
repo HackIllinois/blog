@@ -3,7 +3,7 @@ layout: post
 title: "Dreamt it. Built it. HackIllinois 2018, A Recap."
 date: 2018-05-19 00:00:00
 categories: recap
-tags: HackIllinois2018, featured
+tags: HackIllinois2018
 image: /assets/article_images/hackillinois-2018-recap/2018_recap_cover.jpg
 author: Justin Yang
 ---
