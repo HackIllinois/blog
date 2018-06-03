@@ -6,13 +6,14 @@ categories: recap
 tags: HackIllinois2018, featured
 image: /assets/article_images/open-source-hackillinois-2018/panel.jpg
 author: Rohin Bhasin
+redirect_from: /recap/2018/05/24/open-source-hackillinois-2018
 ---
 
 Open Source carried a huge presence at HackIllinois 2018. This year, we had over [40 mentors](https://2018.hackillinois.org/mentors) and [25 sponsors](https://2018.hackillinois.org) at HackIllinois, and everyone came eager to contribute to the Open Source community! The goal of HackIllinois has expanded in recent years to connect with the developer community by encouraging students and hackers from all over the country to contribute to the tools they use every day. Hackers get flexibility as to what they want to work on—they can opt to build their own project, or they can have the unique experience of learning how to contribute to existing Open Source software. To facilitate these contributions, the HackIllinois Team invites mentors from established Open Source projects to work with Hackers at the event and help them get involved.
 
 # Mentors
 
-Open Source contributions at HackIllinois would not be possible without the many amazing mentors that attended the event this year. Mentorship is essential to the HackIllinois experience: these veteran Open Source contributors and engineers help students get the ball rolling on contributing to Open Source. 
+Open Source contributions at HackIllinois would not be possible without the many amazing mentors that attended the event this year. Mentorship is essential to the HackIllinois experience: these veteran Open Source contributors and engineers help students get the ball rolling on contributing to Open Source.
 
 To initially introduce students to the mentors, we held panels regarding Web/Data and Systems/Miscellaneous so students could come hear about the fields they were interested in. Afterward, mentors briefly described their projects and students had a chance to discuss with mentors and join their teams.
 

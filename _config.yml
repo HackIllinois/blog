@@ -2,6 +2,10 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-redirect-from
+
+plugins:
+  - jekyll-redirect-from
 
 # Site settings
 title: "HackIllinois"
