@@ -250,6 +250,7 @@ PLATFORMS
 DEPENDENCIES
   bourbon
   github-pages
+  jekyll-redirect-from
   jemoji
 
 BUNDLED WITH
