@@ -32,9 +32,9 @@ More specifically, this year we want to make HackIllinois **exciting**. We are p
 
 We are always open to feedback and new ideas. If you have participated in our event or any hackathon, conference, get-together, Urbana corn festival, ANYTHING where you found a fun or engaging project, activity, or meal, do not hesitate to suggest it to us. We are still in the brainstorming phases for the event and love to hear from you all, so reach out to us! Working together and getting advice from informed individuals is our style. #(OUR HASHTAG HERE)
 
-Likewise, there are some pilot ideas we will be exploring over the planning 
+There are some pilot ideas we will be exploring over the following months as planning continues, so let us know on contact@hackillinois.org if you have suggestions, feedback, or just want to share your experiences with us. We’re always happy to hear from you! We will continue to make more announcements on our blog, right here, and with our social media accounts.
 
-Let us know on contact@hackillinois.org if you have suggestions, feedback, or just want to share your experiences with us, we’re always happy to hear from you! We will continue to make more announcements on our blog, right here, and with our social media accounts.
+Likewise, we will be attending conferences and hackathons alike to get a good sense of what is currently being developed in the world around us. If you see somebody in a HackIllinois staff shirt, please engage with us! We genuinely enjoy having conversations with our attendees, and it may be a much easier forum to discuss and get ideas across than over an email. Additionally, if you are a UIUC student who'd like to get involved in this process and join our team, we will make a call for applications in the Fall, so stay tuned :).
 
 ## Something Blue:
 
