@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Something old, something new..."
-date: 2018-06-15 10:00:00
+date: 2018-06-20 12:00:00
 categories: recap, preview
 tags: HackIllinois2018, HackIllinois2019
 author: Kyle Begovich
@@ -19,7 +19,7 @@ The blog has already explored a few retrospective pieces of the event last year,
 
 # Something New:
 
-There are only 8 months, 7 days, and 6 hours until check-in, but who’s counting? HackIllinois 2019 will be the 6th time Illinois students organize what has become the premier open source event available to undergraduates. While writing this statement, we wanted to explore and emphasize the varied roles that HackIllinois takes on. We have established our mission this year:
+There are only 8 months, 2 days, and 4 hours until check-in, but who’s counting? HackIllinois 2019 will be the 6th time Illinois students organize what has become the premier open source event available to undergraduates. While writing this statement, we wanted to explore and emphasize the varied roles that HackIllinois takes on. We have established our mission this year:
 
 **_To create an environment conducive to education, collaboration, and mentorship within the Open Source Community_**
 
@@ -35,6 +35,7 @@ We are always open to feedback and new ideas. If you have participated in our ev
 There are some pilot ideas we will be exploring over the following months as planning continues, so let us know on contact@hackillinois.org if you have suggestions, feedback, or just want to share your experiences with us. We’re always happy to hear from you! We will continue to make more announcements on our blog, right here, and with our social media accounts.
 
 Likewise, we will be attending conferences and hackathons alike to get a good sense of what is currently being developed in the world around us. If you see somebody in a HackIllinois staff shirt, please engage with us! We genuinely enjoy having conversations with our attendees, and it may be a much easier forum to discuss and get ideas across than over an email. Additionally, if you are a UIUC student who'd like to get involved in this process and join our team, we will make a call for applications in the Fall, so stay tuned :).
+
 
 ## Something Blue:
 
