@@ -5,12 +5,12 @@ This blog is self hosted at [https://blog.hackillinois.org](blog.hackillinois.or
 
 ## Development
 To run test locally:
-- `git clone`
-- make sure you have ruby
-- `cd` wherever you cloned the blog
-- `bundle install`
-- `bundle exec jekyll serve`
-- hosted at: http://127.0.0.1:4000/ or http://localhost:4000/
+1. `git clone`
+2. make sure you have ruby
+3. `cd` wherever you cloned the blog
+4. `bundle install`
+5. `bundle exec jekyll serve`
+6. hosted at: http://127.0.0.1:4000/ or http://localhost:4000/
 
 ## Blogging Protocol
 1. Request permissions on the GitHub organization from the directors
