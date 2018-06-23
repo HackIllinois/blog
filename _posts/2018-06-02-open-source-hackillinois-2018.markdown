@@ -3,7 +3,7 @@ layout: post
 title: "Open Source at HackIllinois 2018"
 date: 2018-06-02 22:00:00
 categories: recap
-tags: HackIllinois2018, featured
+tags: HackIllinois2018
 image: /assets/article_images/open-source-hackillinois-2018/panel.jpg
 author: Rohin Bhasin
 redirect_from: /recap/2018/05/24/open-source-hackillinois-2018
