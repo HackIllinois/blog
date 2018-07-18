@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Something old, something new…"
-date: 2018-06-23 16:00:00
+date: 2018-07-20 19:00:00
 categories: preview
 tags: HackIllinois2018, HackIllinois2019, featured
-image: /assets/article_images/mission-statement-2019/landing-page-2019.jpg
+image: /assets/article_images/mission-statement-2019/emailheader-01.jpg
 author: Kyle Begovich
 ---
 
-Even though it is only June,  planning for HackIllinois 2019 is already well underway, and our Summer Team would love to offer you an inside look at some of our motivations and guiding principles.
+Even though it is only July, planning for HackIllinois 2019 is already well underway, and our Summer Team would love to offer you an inside look at some of our motivations and guiding principles.
 
 
 # Something Old:
