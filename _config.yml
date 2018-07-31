@@ -35,7 +35,7 @@ twitter_handle: '@hackillinois'
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
-#google_analytics: UA-XXXXX-X
+google_analytics: UA-46010489-3
 
 # social icons and sharing options
 social:

@@ -38,6 +38,8 @@
   });
 }(jQuery));
 </script>
+{% if jekyll.environment == 'production' %}
 {% if site.google_analytics %}
 {% include google_analytics.html %}
+{% endif %}
 {% endif %}
