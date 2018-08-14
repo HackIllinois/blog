@@ -4,6 +4,7 @@ title: "Mentor Spotlight: Pablo Aguiar"
 date: 2018-08-01 17:00:00
 categories: spotlights
 tags: HackIllinois2018, mentors, featured
+image: /assets/article_images/mentor-spotlight-pablo-aguiar/header.jpg
 author: Justin Yang
 ---
 
@@ -11,7 +12,7 @@ Welcome to our new series of mentor spotlights! In these interviews, we highligh
 
 In this piece, we talk with Pablo Aguiar, who was a mentor at HackIllinois 2018. When we first approached Pablo about mentoring at HackIllinois, it was clear that he was passionate about open source. That same passion shines through every time we talk with him and in the way he worked alongside students on open source projects at HackIllinois.
 
-![Shreyas and Kavi from HackIllinois staff (left) have lunch with Pablo (right) at Mid Summer Lounge](/assets/article_images/mentor-spotlight-pablo-aguiar/pablo.jpg "Lunch with Pablo")
+![Pablo (left) has lunch with Shreyas and Kavi from HackIllinois staff (right) at Mid Summer Lounge](/assets/article_images/mentor-spotlight-pablo-aguiar/midsummer.jpg "Lunch with Pablo")
 
 ### Tell us about yourself. What is your background and what do you do now?
 Hi! I'm a Computer Scientist from Brazil. In the past few years I had a lot of fun being a software engineer at [Globo.com](https://www.globo.com/), Latin America's largest media and publishing company. Nowadays I live in Munich, Germany, working with Electro-Mobility at [The Mobility House](https://www.mobilityhouse.com) and having fun with swarms of batteries and the Internet of Charging, reacting to the European electricity grid demands in real-time.
@@ -48,6 +49,8 @@ I was fortunate enough to be a mentor at HackIllinois 2018 and the experience wa
 
 ### What are you most excited about in technology and open source?
 What excites me more about technology and open source is how they transform the world and people's lives and the opportunity they give me to take part in it while having fun doing so. Me, a single person behind my laptop, having the chance to play my role in life and reach people all over the world, helping them achieve their goals, making their day-to-day tasks easier and more practical, fun and more secure. And do it along with other people whom I learn from and share knowledge with, evolving together. Thus, technology and open source drive my life in a higher purpose.
+
+![Pablo is excited to be at HackIllinois!](/assets/article_images/mentor-spotlight-pablo-aguiar/banner.jpg "Pablo points at the HackIllinois banner in the Siebel Atrium")
 
 <center>&middot;&middot;&middot;</center><br>
 
