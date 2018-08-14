@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mentor Spotlight: Pablo Aguiar"
-date: 2018-08-01 17:00:00
+date: 2018-08-14 17:00:00
 categories: spotlights
 tags: HackIllinois2018, mentors, featured
 image: /assets/article_images/mentor-spotlight-pablo-aguiar/header.jpg
