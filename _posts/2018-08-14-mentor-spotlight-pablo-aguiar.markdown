@@ -3,7 +3,7 @@ layout: post
 title: "Mentor Spotlight: Pablo Aguiar"
 date: 2018-08-14 17:00:00
 categories: spotlights
-tags: HackIllinois2018, mentors, featured
+tags: HackIllinois2018, mentors
 image: /assets/article_images/mentor-spotlight-pablo-aguiar/header.jpg
 author: Justin Yang
 ---
@@ -55,3 +55,5 @@ What excites me more about technology and open source is how they transform the 
 <center>&middot;&middot;&middot;</center><br>
 
 Check out Pablo's profile on GitHub at [github.com/scorphus](https://github.com/scorphus) and open an issue/PR on one of his projects if you're interested in getting involved. Stay tuned for more in our mentor spotlight series!
+
+Interested in being a mentor like Pablo? Check out our [Call for Mentors]({{ site.baseurl }}{% post_url 2018-08-22-call-for-mentors-hackillinois-2019 %}) for information on how to get involved.

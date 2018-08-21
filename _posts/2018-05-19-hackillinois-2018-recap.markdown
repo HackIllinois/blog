@@ -48,4 +48,6 @@ By the end, there was lots of excitement in the air as judges wandered about Sie
 
 ![A group presents their contributions at the project expo](/assets/article_images/hackillinois-2018-recap/demo.jpg "project demo")
 
-Watch out for registration for HackIllinois 2019 on our website at [hackillinois.org](https://hackillinois.org)! And if you're interested in getting involved as a sponsor or mentor, be sure to reach out to us at contact@hackillinois.org.
+Watch out for registration for HackIllinois 2019 on our website at [hackillinois.org](https://hackillinois.org)! And if you're interested in getting involved as a sponsor, be sure to reach out to us at sponsor@hackillinois.org.
+
+Interested in being a mentor at HackIllinois 2019? Check out our [Call for Mentors]({{ site.baseurl }}{% post_url 2018-08-22-call-for-mentors-hackillinois-2019 %}) for information on how to get involved.
