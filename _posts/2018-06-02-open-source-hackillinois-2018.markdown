@@ -44,3 +44,5 @@ HackIllinois did not limit students to only contributing to existing Open Source
 We're incredibly happy that Open Source was such a success at HackIllinois 2018 and aim to continue the contributions next year at HackIllinois 2019. In the meantime, make sure to check out [our other recent post]({{ site.baseurl }}{% post_url 2018-05-19-hackillinois-2018-recap %}) recapping the entirety of HackIllinois 2018.
 
 Watch out for registration for HackIllinois 2019 on our website at [hackillinois.org](https://hackillinois.org)! And if you're interested in getting involved as a sponsor or mentor, be sure to reach out to us at contact@hackillinois.org.
+
+Want to be a part of the open source community at HackIllinois 2019 and want to be a mentor? Check out our [Call for Mentors]({{ site.baseurl }}{% post_url 2018-08-22-call-for-mentors-hackillinois-2019 %}) for information on how to get involved.
