@@ -4,7 +4,7 @@ title: "Mentor Spotlight: Tyler Leonhardt"
 date: 2018-08-21 17:00:00
 categories: spotlights
 tags: HackIllinois2018, mentors, featured
-author: Justin Yang
+author: Rohin Bhasin
 ---
 
 Welcome to our second post in our series of mentor spotlights! In these interviews, we highlight some of the open source mentors that are central to HackIllinois.
