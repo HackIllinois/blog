@@ -7,6 +7,10 @@ tags: HackIllinois2018, mentors, featured
 author: Justin Yang
 ---
 
+Welcome to our second post in our series of mentor spotlights! In these interviews, we highlight some of the open source mentors that are central to HackIllinois.
+
+In this piece, we talk with Tyler Leonhardt, who was a mentor at HackIllinois 2018. Tyler spearheads multiple Open Source intiatives at Microsoft. He worked with students at HackIllinois on projects like VSCode and PowerShell and believes in building code to benefit the developer community.
+
 ### Tell us about yourself. What is your background and what do you do now?
 
 I work on an open source project called [PowerShell](https://github.com/PowerShell). It's a cross-platform scripting language/shell that runs on top of .NET Core.
