@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Call to Open Source with Open-Street-Map"
+date:   2019-02-12 12:00:00
+categories: press
+tags: IlliniHackers, HackNight
+image: /assets/article_images/illinihackers-queue-dev-night-recap/queue_dev_night_cover.jpg
+author: Saloni Sahni
+---
+
+## Questions
+
+  ## How did you come up with the idea?
+
+Last summer, one of our team members, James, spent a lot of time on OpenStreetMap manually mapping buildings in his hometown. For those that don’t know, OpenStreetMap is a free database of geographical information, kind of like an open source version of Google Maps. Anyone can access, modify, and download the entire database free of charge. While OpenStreetMap contains a great deal of mapping data, there are many areas which are particularly undermapped. Most OSM mappers do their work by hand—clicking each corner of every building—with aerial imagery in the background to guide them. In rural areas (and even suburban areas) many buildings, especially houses, aren’t there. The experience of manually identifying and mapping each location made James sympathize with the frustration around the existing system. It occurred to him that having a streamlined, simple, and efficient way to map buildings would be incredibly useful. After our project group was first made, we looked into the use-cases for this kind of application. We were surprised to learn how many services relied on OpenStreetMap; they include Snapchat, Facebook, and Pokemon Go. Rooted in the broad potential for this service, OpenStreetMap Building Detector was born.
+
+## What did you complete in the time given? What would you have done if you had more time?
+
+OpenStreetMap Building Detector is a locally hosted web app that helps the user map buildings quickly to OpenStreetMap using aerial imagery that’s been freely provided on the web. Existing features include a configuration file, so users can enter their unique API key, username,   and password as well as indicate whether they want to work on the real server or the dev server; syncing, so users can see what has already been mapped in their geographical area of interest; an image cache, so the map loads faster by reading images that have already been seen before as opposed to pulling from the image API again; a one-click detection mechanism where a single click inside a building maps (with some limitations) the enclosing building by using grayscale gradients to detect intensity changes; a merge-mode to merge mapped rectangles in case they didn’t encompass the whole area; and an upload button to send the changes to the OSM server. 
+	
+	As for the second question, we actually have continued work on this project after the fall semester ended. The syncing feature was added just a few weeks ago, for example. We would also like to add a search option, so users can find a spot in the world that they want to map. Work on this is already underway. However, the largest unresolved issue remains our building detection algorithm. With more time and guidance, we want to implement a better detection algorithm, possibly by creating a building detection image classifier using a neural network (not to sound too buzzword-y). This would allow us to outline many different shapes and hues of buildings that are difficult to explicitly or algebraically formulate for all or even most cases.
+Once we are satisfied with our improvements, we will introduce our service to the rest of the OSM community. Perhaps some dedicated members of the OSM community will help contribute to our project as well!
+
+## How do you plan on contributing to this project or other open source projects in the future?
+	
+Much of this was mentioned in the second half of question 2’s response, but we’d like to add that we’re looking forward to continuing this project at HackIllinois! We are hoping to train a neural network to accomplish the difficult task of finding building outlines, and then implement that network’s learning into OSM Building Detector.
+
+
+## Was this your first open source contribution? What was your experience contributing to open source?
+
+For me (Brian Furman), this was my first open source contribution. It felt very rewarding to make an application that anyone can use and improve. Open source was my chance to not only make something interesting, but also something productive for the community.
+For me (James Austgen), this was my first “useful” open source contribution. I’m looking forward to working on more open source projects in the future. I especially like this project because instead of just doing something cool, we’re doing something cool and helpful for a community much larger than ourselves.
+For me (James Wei), this was my first open source contribution. Contributing to this project and working with my teammates was certainly enjoyable and worthwhile. Yet, being able to create something with a distinct impact for a larger community is completely rewarding in itself. It’s amazing to see how far we’ve gotten as a team and how much experience I’ve gained throughout the entire process. I definitely intend to contribute to more open source projects in the future.  
+For me (Jatin Mathur), this was my first open source contribution. I’d gone to an open source night earlier in the night hosted by Goldman Sachs, and I knew and did… just about nothing. However, this project was much, much different. Not only did I know more and was more comfortable with the tools, I had a team of similarly motivated students to work with. I really enjoyed this experience, as I find it kind of amazing that so many of the major dependencies of our project, from the aerial imagery and OpenStreetMap API to Numpy, are open source themselves. Our project is a part of a the wonderful almost circularity that ties so much of open source together, and it was a powerful demonstration of the potential that is created when services and data are made publicly available.
+
+## What roadblocks did you face along the way and how did you get past them?
+
+Merge-mode: If the building’s roof is noisy in the picture (for example, a pipe divides the roof into 2 parts), the application will detect each part of the building as a separate rectangle. We created merge mode to automatically combine these sections when they overlap or come close.
+Image cache: It was very inefficient to pull satellite images from the internet every time the user scrolled in or moved on the map. We solved this by caching these images locally, then reaccessing these cached images.
+Image detection: the original idea was to have the user zoom in on a section of the map and hit “Map,” and the algorithm would map every building in the image. This became too difficult, as it is tough to define what a “building” is. Instead, we went with the approach of having the user click one inside the building, which became much easier as the algorithm could then find the edges in a manner that is much easier to formulate.
+
+
+## How could this feature be integrated alongside the existing project?
+
+	OpenStreetMap contributors can download this application when mapping buildings and houses onto OpenStreetMap. Right now, it takes anywhere from 10-45 seconds to map one building. Once we perfect our project, we hope to map 20-30 buildings in that same time.
+	Our project is separate from the OpenStreetMap website, but any buildings mapped with our tool can be uploaded to OpenStreetMap (and, therefore, the website). We hope our project gives people an incentive to map unmapped places, making the world as a whole much better represented on OSM’s map. Furthermore, with more tools like ours, OpenStreetMap might become a highly competitive alternative to commercial, proprietary maps that have non-free data. Many big companies have started to move from proprietary map data to open source map data, and in this service could possibly help spur that move.
