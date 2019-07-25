@@ -11,7 +11,7 @@ redirect_from: /history
 
 Thousands of attendees. Hundreds of mentors. Six years. One HackIllinois.
 
-What began in 2014 alongside the nation’s first collegiate hackathons has now evolved into the premier collegiate open source hackathon. As planning for the 2020 event begins, we take a look at the evolution of HackIllinois from our roots in a traditional collegiate hackathon through the beginnings of our open source era. 
+What began in 2014 alongside the nation’s first collegiate hackathons has now evolved into the premier collegiate open source hackathon. As planning for the 2020 event begins, we take a look at the evolution of HackIllinois from our roots in a traditional collegiate hackathon through the beginnings of our open source era.
 
 ## Imagine. Learn. Launch: The Creation of HackIllinois
 
@@ -19,19 +19,19 @@ In the years leading up to HackIllinois’ inception, Facebook had been hosting 
 
 ![HackIllinois staff and attendees de-stress with therapy dogs (Space Puppies<sup>TM</sup>) outside of Siebel. Photo by Priten Vora.](/assets/article_images/hackillinois-a-journey/2014-space-puppies.jpg)
 
-Equipped with their previous involvement in hackathon planning and organizing the student-run technology conference, [Reflections &#124; Projections](https://www.reflectionsprojections.org), the 51-person staff organized an amazing and successful event for 740 attendees and 56 sponsors. 
+Equipped with their previous involvement in hackathon planning and organizing the student-run technology conference, [Reflections &#124; Projections](https://www.reflectionsprojections.org), the 51-person staff organized an amazing and successful event for 740 attendees and 56 sponsors.
 
 The outer spaced-themed 36-hour hackathon was packed with events, including a plethora of tech talks, lots of food, Space Puppies<sup>TM</sup>, and the inaugural Nerf mini-event.
 
 ![The HackIllinois 2014 staff gears up for the inaugural Nerf mini-event. Photo by Priten Vora.](/assets/article_images/hackillinois-a-journey/2014-staff-nerf.jpg)
 
-The staff would see their success and general event structure continue into 2015, when the event shifted from April to its now-traditional last weekend in February. The event also began the tradition of having annual themes centered around exploring a variety of frontiers. From 2014 to 2019, HackIllinois would explore the universe from the vast expanse of space to the depths of the ocean. 
+The staff would see their success and general event structure continue into 2015, when the event shifted from April to its now-traditional last weekend in February. The event also began the tradition of having annual themes centered around exploring a variety of frontiers. From 2014 to 2019, HackIllinois would explore the universe from the vast expanse of space to the depths of the ocean.
 
-A long-standing partnership with the Electrical and Computer Engineering department was established, leading the event to expand its venue to both ECEB (the Electrical and Computer Engineering Building) as well as the Illini Union. 
+A long-standing partnership with the Electrical and Computer Engineering department was established, leading the event to expand its venue to both ECEB (the Electrical and Computer Engineering Building) as well as the Illini Union.
 
 ![Students explore the sponsor booths in ECEB. Photo by Priten Vora.](/assets/article_images/hackillinois-a-journey/2015-eceb-sponsors.jpg)
 
-Along with the new association with the ECE department came an increased emphasis on hardware projects. The staff made hardware available to attendees. Submissions and prizes were split into hardware and software tracks. 
+Along with the new association with the ECE department came an increased emphasis on hardware projects. The staff made hardware available to attendees. Submissions and prizes were split into hardware and software tracks.
 
 ![The public roams the project expo in the Illini Union. Photo by Priten Vora.](/assets/article_images/hackillinois-a-journey/2015-union-expo.jpg)
 
@@ -41,7 +41,7 @@ In just two years, the scope of HackIllinois had expanded from a 700-person even
 
 ## Explore New Frontiers: Transitioning into Open Source
 
-By 2016, a successful event had already been run twice, and the team was looking to create something more. An open source track of the event was soon inaugurated, with the hopes of  “building HackIllinois as an exciting, non-traditional experience for students.” 
+By 2016, a successful event had already been run twice, and the team was looking to create something more. An open source track of the event was soon inaugurated, with the hopes of  “building HackIllinois as an exciting, non-traditional experience for students.”
 
 ![Over 900 students pour into the Siebel Center from across the country to check in for HackIllinois 2015. Photo by Priten Vora.](/assets/article_images/hackillinois-a-journey/2015-siebel-checkin.jpg)
 
@@ -51,31 +51,31 @@ The staff started to see a pattern in many of the submissions. Hackathon attende
 
 ![Attendees roam the ECEB atrium. Photo by Priten Vora.](/assets/article_images/hackillinois-a-journey/2015-eceb-attendees.jpg)
 
-Open source would be the solution to these problems. It naturally attracts strong developers but also caters to those who are eager to learn the skills necessary to get involved. Projects inherently would be continued after the event, and the extensivity of both the available mentorship and the variety of projects ensured that everyone would learn something. The staff saw in open source their chance to recapture what hackathons were meant to be: fun, innovative, and awe-inspiring. 
+Open source would be the solution to these problems. It naturally attracts strong developers but also caters to those who are eager to learn the skills necessary to get involved. Projects inherently would be continued after the event, and the extensivity of both the available mentorship and the variety of projects ensured that everyone would learn something. The staff saw in open source their chance to recapture what hackathons were meant to be: fun, innovative, and awe-inspiring.
 
 ## Digging Deeper: Going Further Into the Open Source Community
 
 Having just put on one of the largest collegiate hackathons in 2016, part of the staff was invested in the traditional hackathon model. They had already hosted over 1,500 people successfully and many sought to further refine the success, whether that was increasing attendance to further scale up the hype or decreasing attendance to more heavily concentrate resources.
 
-Another part of the staff sought a [fully-open source hackathon](https://opensource.hackillinois.org) -- no prizes, much fewer attendees, and an ideal space where mentors and attendees could collaborate side-by-side to engineer features for open source projects. The new hackathon would cultivate contributions and creativity rather than competition. 
+Another part of the staff sought a [fully-open source hackathon](https://opensource.hackillinois.org) -- no prizes, much fewer attendees, and an ideal space where mentors and attendees could collaborate side-by-side to engineer features for open source projects. The new hackathon would cultivate contributions and creativity rather than competition.
 
 Ultimately these two staunchly rivalrous opinions compromised on the "Create" and "Contribute" tracks of the event, each of which reflected the goals of both groups. Hackers were given the opportunity to form the foundations of a new open source project or contribute to a pre-existing one. HackIllinois then began its journey of revolutionizing the college hackathon while giving back to the open source community.
 
 ![Students gather for a panel of open source mentors. Photo by HackIllinois 2017 Staff Photographers.](/assets/article_images/hackillinois-a-journey/2017-opensource-panel.jpg)
 
-The road to a fully open source event was riddled with troubles. Alongside downsizing the team, the staff was also in the midst of a reorganization and roles were not always clearly defined. More importantly, the staff was cautious about fully marketing themselves as a completely open source event -- what if there were no mentors, and thus no guides for attendees delving into the world of open source for the first time? After all, without an interesting and succesful precedent, many were skeptic about the benefits of spending a weekend teaching college students how to code in the middle of the cornfields of Illinois.
+The road to a fully open source event was riddled with troubles. Alongside downsizing the team, the staff was also in the midst of a reorganization and roles were not always clearly defined. More importantly, the staff was cautious about fully marketing themselves as a completely open source event -- what if there were no mentors, and thus no guides for attendees delving into the world of open source for the first time? After all, without an interesting and successful precedent, many were skeptical about the benefits of spending a weekend teaching college students how to code in the middle of the cornfields of Illinois.
 
 The greatest problem the team faced was raising money. Companies liked the idea of hackathons where students could use their API and win prizes with them, so the staff had to convince them that an open source hackathon would lead to higher quality projects through which recruiters could watch engineers contribute to real projects.
 
-![HackIllinois 2017 staff celebrate a successful event at the traditional Staff vs. Sponsors Nerf batttle. Photo by HackIllinois 2017 Staff Photographers.](/assets/article_images/hackillinois-a-journey/2017-staff-nerf.jpg)
+![HackIllinois 2017 staff celebrate a successful event at the traditional Staff vs. Sponsors Nerf battle. Photo by HackIllinois 2017 Staff Photographers.](/assets/article_images/hackillinois-a-journey/2017-staff-nerf.jpg)
 
 Although the team struggled with finding mentors and sponsors, HackIllinois 2017 was ultimately a success due to the detail-oriented, thoroughly-debated work of the staff. They weighed their own values with those of their fellow staff, sponsors, mentors, and attendees to create a successful open source hackathon.
 
-While the team saw great success in 2017 through the create and contribute tracks, the general consensus from the attendees was that the separation of creating and contributing caused a rift that made it feel like two events. The 2018 team's greatest challenge laid in capturing the essences of the Create and Contribute tracks, which appealed to traditional hackers and open source contributors respectively, while still forming [one cohesive event](https://blog.hackillinois.org/recap/2018/05/19/hackillinois-2018-recap.html). 
+While the team saw great success in 2017 through the create and contribute tracks, the general consensus from the attendees was that the separation of creating and contributing caused a rift that made it feel like two events. The 2018 team's greatest challenge laid in capturing the essence of the Create and Contribute tracks, which appealed to traditional hackers and open source contributors respectively, while still forming [one cohesive event](https://blog.hackillinois.org/recap/2018/05/19/hackillinois-2018-recap.html).
 
 ![Attendees gather as a group to work on an open source project. Photo by HackIllinois 2018 Staff Photographers.](/assets/article_images/hackillinois-a-journey/2018-attendees-hacking.jpg)
 
-One such method was cultivating interactions with big-name open source projects, such as 2017 HackIllinois Prize winner [Puppeteer to Istanbul](https://github.com/istanbuljs/puppeteer-to-istanbul). These "blockbuster projects" would excite and attract attendees while providing motivation to continue refining the event for the staff. 
+One such method was cultivating interactions with big-name open source projects, such as 2017 HackIllinois Prize winner [Puppeteer to Istanbul](https://github.com/istanbuljs/puppeteer-to-istanbul). These "blockbuster projects" would excite and attract attendees while providing motivation to continue refining the event for the staff.
 
 Since the transition to open source, attendees and mentors have contributed to projects such as [jupyter](https://github.com/jupyter), [Rust](https://github.com/rust-lang), [Julia](https://github.com/JuliaLang), [numpy](https://github.com/numpy), and [npm](https://github.com/npm). Attendees have made hundreds of PRs and forged invaluable connections to open source and industry developers.
 
@@ -97,7 +97,7 @@ Although the event welcomed just as many freshman as it did seniors, mentors and
 
 ## Explore. Connect. Build: What Lies Beyond?
 
-For six years, HackIllinois has sought to bring the brightest young minds from across the country together and help transform their ideas into reality. Year after year, the staff strove to provide everything a hacker needed for a weekend so they can focus on building something amazing. From the small details like hospitality to the overarching elements like our unique open source structure, the foundations on which we will build HackIllinois 2020 have been well-refined. 
+For six years, HackIllinois has sought to bring the brightest young minds from across the country together and help transform their ideas into reality. Year after year, the staff strove to provide everything a hacker needed for a weekend so they can focus on building something amazing. From the small details like hospitality to the overarching elements like our unique open source structure, the foundations on which we will build HackIllinois 2020 have been well-refined.
 
 While time may have passed, our commitment to promoting open source, creating a welcoming community to experts and beginners alike, and fostering a group of the most imaginative college students in the world has and will always remain the same.
 
