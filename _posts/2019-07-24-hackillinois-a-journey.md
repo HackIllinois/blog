@@ -2,7 +2,7 @@
 layout: post
 title: "HackIllinois: A Journey"
 date: 2019-07-24 17:00:00
-categories: recap
+categories: recap, featured
 tags: HackIllinois
 image: /assets/article_images/hackillinois-a-journey/2019-siebel-attendees.jpg
 author: Melissa Chen
