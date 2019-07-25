@@ -45,7 +45,7 @@ By 2016, a successful event had already been run twice, and the team was looking
 
 ![Over 900 students pour into the Siebel Center from across the country to check in for HackIllinois 2015. Photo by Priten Vora.](/assets/article_images/hackillinois-a-journey/2015-siebel-checkin.jpg)
 
-The transition was prompted by the staff noticing that the event was beginning to fail to provide the ideal experience they set out to create. Student feedback about food, mentorship, admittance, and judging showed that HackIllinois would have difficulty handling the volume of people that would be passing through the doors of Siebel and ECEB during one weekend.
+The transition was prompted by the staff noticing that the event was failing to provide the ideal experience they set out to create. Student feedback about food, mentorship, admittance, and judging showed that HackIllinois would have difficulty handling the volume of people that would be passing through the doors of Siebel and ECEB during one weekend.
 
 The staff started to see a pattern in many of the submissions. Hackathon attendees had developed a formula for winning these events, resulting in projects that were simply variations of the same software and skills. The projects themselves would rarely be continued after the hackathon. The combination of the two led to a well-tested approach to winning with no continuation of the projects afterwards, signaling the eventual death of Hackathons.
 
@@ -83,7 +83,7 @@ Since the transition to open source, attendees and mentors have contributed to p
 
 One example is the friendship between [open source mentor Pablo Aguiar](https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html) and staff member Shreyas Mohan.  The staff reached out to him for the 2018 event, not knowing that he would be travelling to the midwest from abroad. Nonetheless, [Pablo](https://www.github.com/scorphus) was incredibly excited about the event and travelled for days to make it. After the event, Shreyas and Pablo remained in touch, establishing a close staff-mentor friendship. Pablo returned to the event in 2019, again travelling for days from abroad to make it.
 
-Throughout the combined 72 hours, Pablo has mentored many groups of students, ranging from total beginners to open source to experienced developers. Many from the 2018 event continued to work on their project, an example of the success of the open source hackathon model.
+Throughout the combined 72 hours, Pablo has mentored many groups of students, from beginners in open source to experienced developers. Many from the 2018 event continued to work on their project, an example of the success of the open source hackathon model.
 
 ## Make Waves: Introducing Beginners to Open Source
 
@@ -93,11 +93,11 @@ Throughout the combined 72 hours, Pablo has mentored many groups of students, ra
 
 The beginner-friendly focus was driven by the desire for HackIllinois to be many people’s first exposure to open source. The staff sought to introduce as many people as possible to the ideas and the community that revolved around open source software. Beginners to open source would be the ideal target for the event.
 
-Although the event welcomed just as many freshman as it did seniors, mentors and students could see the shift towards welcoming beginners to open source. While not everyone was able to walk out the door with a prize, many felt like they left with something more important -- newfound knowledge imparted on them by the community they interacted with over the course of the weekend.
+Although the event welcomed just as many freshman as it did seniors, mentors and students could see the shift towards welcoming beginners to open source. While not everyone was able to walk out the door with a prize, many felt like they left with something more important: new knowledge they gained from the people they interacted with over the course of the weekend.
 
 ## Explore. Connect. Build: What Lies Beyond?
 
-For six years, HackIllinois has sought to bring the brightest young minds from across the country together and help transform their ideas into reality. Year after year, the staff strove to provide everything a hacker needed for a weekend so they can focus on building something amazing. From the small details like hospitality to the overarching elements like our unique open source structure, the foundations on which we will build HackIllinois 2020 have been well-refined.
+For six years, HackIllinois has sought to bring the brightest young minds from across the country together and transform their ideas into reality. Year after year, the staff strives to provide everything a hacker needs for a weekend so they can focus on building something amazing. From the small details like hospitality to the overarching elements like our unique open source structure, the foundations on which we will build HackIllinois 2020 have been well-refined.
 
 While time may have passed, our commitment to promoting open source, creating a welcoming community to experts and beginners alike, and fostering a group of the most imaginative college students in the world has and will always remain the same.
 
