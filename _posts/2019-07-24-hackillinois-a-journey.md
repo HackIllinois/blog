@@ -55,11 +55,21 @@ Open source would be the solution to these problems. It naturally attracts stron
 
 ## Digging Deeper: Going Further Into the Open Source Community
 
-Now fully invested in the [open source hackathon](https://opensource.hackillinois.org) model, 2017’s HackIllinois became the “first open source-focused collegiate hackathon” and emphasized “collaboration and sustainability rather than competition.” Through its Create and Contribute tracks, hackers could add to existing open source projects or begin the foundations of a new one. HackIllinois would give back to the open source community while revolutionizing the hackathon.
+Having just put on one of the largest collegiate hackathons in 2016, part of the staff was invested in the traditional hackathon model. They had already hosted over 1,500 people successfully and many sought to further refine the success, whether that was increasing attendance to further scale up the hype or decreasing attendance to more heavily concentrate resources.
+
+Another part of the staff sought a [fully-open source hackathon](https://opensource.hackillinois.org) -- no prizes, much fewer attendees, and an ideal space where mentors and attendees could collaborate side-by-side to engineer features for open source projects. The new hackathon would cultivate contributions and creativity rather than competition. 
+
+Ultimately these two staunchly rivalrous opinions compromised on the "Create" and "Contribute" tracks of the event, each of which reflected the goals of both groups. Hackers were given the opportunity to form the foundations of a new open source project or contribute to a pre-existing one. HackIllinois then began its journey of revolutionizing the college hackathon while giving back to the open source community.
 
 ![Students gather for a panel of open source mentors. Photo by HackIllinois 2017 Staff Photographers.](/assets/article_images/hackillinois-a-journey/2017-opensource-panel.jpg)
 
-# [TODO Talk more about 2017]
+The road to a fully open source event was riddled with troubles. Alongside downsizing the team, the staff was also in the midst of a reorganization and roles were not always clearly defined. More importantly, the staff was cautious about fully marketing themselves as a completely open source event -- what if there were no mentors, and thus no guides for attendees delving into the world of open source for the first time? After all, without an interesting and succesful precedent, many were skeptic about the benefits of spending a weekend teaching college students how to code in the middle of the cornfields of Illinois.
+
+The greatest problem the team faced was raising money. Companies liked the idea of hackathons where students could use their API and win prizes with them, so the staff had to convince them that an open source hackathon would lead to higher quality projects through which recruiters could watch engineers contribute to real projects.
+
+![HackIllinois 2017 staff celebrate a successful event at the traditional Staff vs. Sponsors Nerf batttle. Photo by HackIllinois 2017 Staff Photographers.](/assets/article_images/hackillinois-a-journey/2017-staff-nerf.jpg)
+
+Although the team struggled with finding mentors and sponsors, HackIllinois 2017 was ultimately a success due to the detail-oriented, thoroughly-debated work of the staff. They weighed their own values with those of their fellow staff, sponsors, mentors, and attendees to create a successful open source hackathon.
 
 While the team saw great success in 2017 through the create and contribute tracks, the general consensus from the attendees was that the separation of creating and contributing caused a rift that made it feel like two events. The 2018 team's greatest challenge laid in capturing the essences of the Create and Contribute tracks, which appealed to traditional hackers and open source contributors respectively, while still forming [one cohesive event](https://blog.hackillinois.org/recap/2018/05/19/hackillinois-2018-recap.html). 
 
@@ -105,4 +115,4 @@ Do you want to attend HackIllinois? Applications will be released in the winter.
 
 ---
 
-_<small> Special thanks to Nathan Handler, Aparajitha Adiraju, Spencer Gilbert, Yasha Mostofi, Kevin Hong, Arnav Mishra, and Priten Vora. </small>_
+_<small> Special thanks to Nathan Handler, Arnav Mishra, Aparajitha Adiraju, Spencer Gilbert, Yasha Mostofi, Kevin Hong, and Priten Vora. </small>_
