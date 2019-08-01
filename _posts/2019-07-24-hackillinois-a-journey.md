@@ -99,7 +99,7 @@ Although the event welcomed just as many freshman as it did seniors, mentors and
 
 For six years, HackIllinois has sought to bring the brightest young minds from across the country together and transform their ideas into reality. Year after year, the staff strives to provide everything a hacker needs for a weekend so they can focus on building something amazing. From the small details like hospitality to the overarching elements like our unique open source structure, the foundations on which we will build HackIllinois 2020 have been well-refined.
 
-While time may have passed, our commitment to promoting open source, creating a welcoming community to experts and beginners alike, and fostering a group of the most imaginative college students in the world has and will always remain the same.
+While time has passed, our commitment to promoting open source, creating a welcoming community to experts and beginners alike, and fostering a group of the most imaginative college students in the world has and will always remain the same.
 
 [Get ready to Explore. Connect. Build. at HackIllinois 2020.](https://www.hackillinois.org)
 
