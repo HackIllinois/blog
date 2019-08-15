@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HackIllinois: A Journey"
-date: 2019-07-24 17:00:00
+date: 2019-08-14 17:00:00
 categories: recap, featured
 tags: HackIllinois
 image: /assets/article_images/hackillinois-a-journey/2019-siebel-attendees.jpg
@@ -79,7 +79,7 @@ One such method was cultivating interactions with big-name open source projects,
 
 Since the transition to open source, attendees and mentors have contributed to projects such as [jupyter](https://github.com/jupyter), [Rust](https://github.com/rust-lang), [Julia](https://github.com/JuliaLang), [numpy](https://github.com/numpy), and [npm](https://github.com/npm). Attendees have made hundreds of PRs and forged invaluable connections to open source and industry developers.
 
-![Mentor Pablo Aguiar and outreach staff member Shreyas Mohan at HackIllinois 2019. Photo by Kevin Hong.](/assets/article_images/hackillinois-a-journey/2019-pablo-shreyas.JPG)
+![Mentor Pablo Aguiar and outreach staff member Shreyas Mohan at HackIllinois 2019. Photo by Kevin Hong.](/assets/article_images/hackillinois-a-journey/2019-pablo-shreyas.jpg)
 
 One example is the friendship between [open source mentor Pablo Aguiar](https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html) and staff member Shreyas Mohan.  The staff reached out to him for the 2018 event, not knowing that he would be travelling to the midwest from abroad. Nonetheless, [Pablo](https://www.github.com/scorphus) was incredibly excited about the event and travelled for days to make it. After the event, Shreyas and Pablo remained in touch, establishing a close staff-mentor friendship. Pablo returned to the event in 2019, again travelling for days from abroad to make it.
 
