@@ -3,7 +3,7 @@ layout: post
 title: "Call for Mentors: HackIllinois 2019!"
 date: 2018-08-22 17:00:00
 categories: press
-tags: HackIllinois2019, mentors, featured
+tags: HackIllinois2019, mentors
 image: /assets/article_images/call-for-mentors-hackillinois-2019/header.jpg
 author: Justin Yang
 redirect_from: /callformentors
