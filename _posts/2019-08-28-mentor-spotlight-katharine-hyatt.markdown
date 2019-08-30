@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mentor Spotlight: Katharine Hyatt"
-date: 2019-08-29 17:00:00
+date: 2019-08-31 17:00:00
 categories: spotlights
 tags: HackIllinois2019, mentors, featured
 image:
@@ -22,71 +22,24 @@ I had no programming experience before I started my undergraduate degree in Phys
 I primarily work with the Julia ecosystem, with GPU packages more specifically. I think the Julia ecosystem is a viable choice for this as it offers native support for CUDA kernels. I'm currently working on a new sort of [module that deals with High Dimensional Tensors](https://github.com/ITensor/ITensors.jl). We conducted supporting research in the context of Multi-Dimensional Linear Algebra, and I'm happy to say that project is now almost complete and will be useful in fields such as Machine Learning. 
 
 ### What is open source/FOSS to you? 
-Open Source holds a lot of significance for me, both personally and professionally. In my industry there has been a push for Open Source elements recently to minimize duplication of effort. Ther might be situations where there are 4-5 different groups solving the same problem but still not getting the same answer in a legible way. Utilizing Open Source resources in such situations avoids pe And if there is a need to perform an audit to identify the problem -&gt; can’t figure out bugs in a closed source library 
+Open Source holds a lot of significance for me, both personally and professionally. In my industry, there has been a push for open source elements recently to minimize duplication of effort. There might be situations where different groups are solving the same problem but still not getting the same answer legibly. Utilizing open source resources in such situations avoids teams working to reinvent the wheel and also makes it easy to identify problems during code audits.
 
-- For her personally: OSS is a way to give back to the community 
-    - Started by making Linear Algebra functionality better 
-    - Something small that you contribute can pay big dividends for the community at large 
+For me, open source is also a way to give back to the community. What is truly inspiring is that something small that a contribution by a single person has the potential to pay big dividends for the community at large. 
+    
+### Why do you contribute to open source? 
+When working on algorithm development, my team and I can go months without knowing whether the project is going to work or not as there are a lot of moving parts. In such times, merging a pull request is something to fall back on as it is somewhat soothing for me to go back home and add two lines to GitHub and seeing everything working.
 
-  
+Working on open source projects has also professionally beneficial for me. My peers and other industry professionals have come to recognize me as the "Julia person". My work has also led me to receive invitations to speak at conferences that are not just focussed on Physics and helped me explore fields broader than my immediate research interests. Having experience with open source projects also makes it easier for me to find professional endeavors in the Computer Science industry if I decide to explore areas outside of academia.
 
-    1. What about the OS community drew you to being an active part of it? 
-        1. Community was really welcoming 
-            1. Not a lot git skills -&gt; no experience with rebase 
-            2. Strong community (always happy to help)  -&gt; people helped with rebase 
-            3. Got it across prod line 
+### What about the open source community, and in particular Julia, drew you to being an active part of it? 
+As I mentioned earlier, the first language I learned was C++, and I only started using Julia in Graduate School. The selling point of Julia is that it offers the ease of use of Python with the speed of C++. What attracted me was the very welcoming and helpful community. I remember that when I first started, I didn't have a lot of git skills. One time I had to use rebase, but I had no experience in using it. That's when members from the community came forward to help me with git and also with getting my code across that production line, which was very assuring. That experience was definitely something that stuck with me and made me want to be part of this wonderful community. 
 
-  1. What drew you to Julia? 
+### What was your first interaction/impression of open source and how has your involvement in open source evolved over time? 
+I've been using Julia since Graduate School. I first started contributing by writing tests and fixing edge cases in my free time, usually when waiting for simulations to finish running. My first Julia PR was on January 2nd, 2015, where I added some tests to Reduce.jl. At the time, the language was not as mature as it is today, and I occasionally encountered little bugs and missing features. 
 
-- First language was C++ 
-- Started Julia in Grad school 
-    - "Ease of use of Python and speed of C++" 
-    - Community was really welcoming 
-        - Not a lot git skills -&gt; no experience with rebase 
-        - Strong community (always happy to help)  -&gt; people helped with rebase 
-        - Got it across prod line
+There have been some pretty noticible changes as the Julia community has grown in the past few years. Today I hear comments like, "This stuff is so reliable" or "This never breaks", which was unheard of in the past. 
 
-1. Why do you contribute to open source? 
-
-- When working on algorithm development, people can go months without knowing whether the project is going to work or not as there are a lot of moving parts 
-    - Soothing for her to back home and add 2 lines to github and seeing everything works and then merge pr 
-    - Something to fall back on 
-
-- Also professionally useful (not everybody can have this experience) 
-    - Peers and professionals recognize her as the “Julia person” 
-    - Receive invitations to speak at conferences that are not just Physics focussed 
-    - Also makes it easier for her to find an industry job if she ever decides to move on from academia 
-
-  
-
-1. What was your first interaction/impression of open source and how has your involvement in open source evolved over time? 
-
-- First Interaction 
-    - First Julia PR was on Jan 2nd 2015 (really bored over break?)  
-        - Added tests to Reduce.jl 
-
-    - Had to use git rebase 
-        - Tim H. walked her through rebasing which was very reassuring (again, helpful community) 
-      
-      - Julia was not as mature when she started using it 
-        - Encountered little bugs and missing features 
-
-- Started with writing tests and fixing edge cases 
-    - Started contributing in her free time when waiting for simulations to run 
-    - Using Julia since Grad School 
-    - 9th most commits all-time (!)
-  
-- Evolution: As the Julia community has grown, there have been some pretty noticeable changes 
-    - For her 
-        - Now people tag her to review PRs while when she started she could just do things at her own pace 
-        - Now people ask her to merge PRs when she might have other stuff going on 
-        - Hears comments like “this stuff is so reliable”, or “this never breaks”; it never used to be like that 
-
-    - Community  
-        - No longer the only women in Julia (yay!)  
-        - Used to be the one people came to when they wanted opinion of women in Julia -&gt; doesn’t have to do community manager role anymore 
-
-  
+I have also grown with the community, and have personally gained a lot of knowledge of experience. Today I have the 9th most commits to the language, and my experience has changed my role in the community in different ways. Now contributers sometimes ask me to review and merge PRs, which can be a little inconvenient when I have other stuff going. Now contributors sometimes ask me to review and merge PRs, which can be a little inconvenient when I have other stuff going. This is very different from my early days when I could do things at my own pace. I'm no longer also the only woman in the Julia community, and so I don't have to play the role of community manager whenever people wanted the opinion of women in Julia. 
 
 1. What do you recommend to beginners interested in Open Source? 
 
