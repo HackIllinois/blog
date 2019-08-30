@@ -55,4 +55,4 @@ I enjoyed my time as a mentor at HackIllinois 2019. One thing that I like about 
 ### What are you looking forward to next year? 
 I was really happy with the 2019 event, and I'm looking forward to more of the same. The only things that I need are sleep, power outlets, and enthusiastic students - which are all readily available at HackIllinois!
 
-Check out Katharines’s profile on GitHub at github.com/kshyatt and open an issue/PR on one of his projects if you’re interested in getting involved. Stay tuned for more in our mentor spotlight series!
+Check out Katharine’s profile on GitHub at github.com/kshyatt and open an issue/PR on one of his projects if you’re interested in getting involved. Stay tuned for more in our mentor spotlight series!
