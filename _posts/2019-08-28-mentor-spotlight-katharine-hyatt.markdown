@@ -3,20 +3,22 @@ layout: post
 title: "Mentor Spotlight: Katharine Hyatt"
 date: 2019-08-31 17:00:00
 categories: spotlights
-tags: HackIllinois2019, mentors, featured
+tags: featured, HackIllinois, mentors
 image:
 author: Divey Anand
 ---
 
-In our first mentor spotlight this year, we talk with Katharine Hyatt, who mentored at HackIllinois 2019. (add fluff)
+Welcome back to another series of mentor spotlights! This series series returns for the 2019-2020 school year, as we seek to highlight the open source mentors that have become the mainstay of our event.
+
+In our first mentor spotlight this year, we speak with Katharine (Katie) Hyatt, who's been an open source mentor at HackIllinois since 2018. Katie has been a contributor to the [Julia Programming Language](https://julialang.org/) and is considered to be one of the top contributors to the project today. In this interview, Katie recounts some of her experiences with open source and gives valuable insight into the community and its growth.
 
 ### Tell us about yourself. What is your background and what do you do now? 
-Hello! I'm currently a postdoctoral fellow at the [Center for Computational Quantum Physics at the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics). My day-to-day job involves working with Computational Physics, which is what I have been pursuing since Graduate School. I work with the [Julia Programming Language](https://julialang.org/) for writing code for research purposes and have also been an Open Source contributor to Julia since 2015.
+Hello! I'm currently a postdoctoral fellow at the [Center for Computational Quantum Physics at the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics). My day-to-day job involves working with computational physics, which is what I have been pursuing since graduate school. I work with Julia for writing code for research purposes and have also been an open source contributor to Julia since 2015.
 
-For Julia, I usually work on writing and maintaining libraries to add high-level features. Some things that I have worked in in the past are wrappers for Video Libraries, and libraries for Linear Algebra and Random Number Generation, all of which interface with main Julia API. 
+For Julia, I usually work on writing and maintaining libraries to add high-level features. Some things that I have worked in in the past are wrappers for video libraries, and libraries for linear algebra and random number generation, all of which interface with main Julia API. 
 
 ### How did you get started in tech? 
-I had no programming experience before I started my undergraduate degree in Physics. In my first year, I took a required class called Introduction to Computational Physics, where I first learned C++. I was pretty good at it and went on to work with my professor from this class as an Undergraduate Research Intern later in my college career. You could say I went from Freshman with no idea about Computer Science to mentoring students at HackIllinois. 
+I had no programming experience before I started my undergraduate degree in Physics. In my first year, I took a required class called Introduction to Computational Physics, where I first learned C++. I was pretty good at it and went on to work with my professor from this class as an Undergraduate Research Intern later in my college career. You could say I went from freshman with no idea about Computer Science to mentoring students at HackIllinois. 
 
 ### What are some of the projects you are working on currently?
 I primarily work with the Julia ecosystem, with GPU packages more specifically. I think the Julia ecosystem is a viable choice for this as it offers native support for CUDA kernels. I'm currently working on a new sort of [module that deals with High Dimensional Tensors](https://github.com/ITensor/ITensors.jl). We conducted supporting research in the context of Multi-Dimensional Linear Algebra, and I'm happy to say that the project is almost completed and will be useful in fields such as Machine Learning. 
