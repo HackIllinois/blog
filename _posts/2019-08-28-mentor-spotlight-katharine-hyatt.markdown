@@ -24,7 +24,7 @@ I had no programming experience before I started my undergraduate degree in Phys
 I primarily work with the Julia ecosystem, with GPU packages more specifically. I think the Julia ecosystem is a viable choice for this as it offers native support for CUDA kernels. I'm currently working on a new sort of [module that deals with High Dimensional Tensors](https://github.com/ITensor/ITensors.jl). We conducted supporting research in the context of Multi-Dimensional Linear Algebra, and I'm happy to say that the project is almost completed and will be useful in fields such as Machine Learning. 
 
 ### What does open source mean to you? 
-Open Source holds a lot of significance for me, both personally and professionally. In my industry, there has been a push for open source elements recently to minimize duplication of effort. There might be situations where different groups are solving the same problem but still not getting the same answer legibly. Utilizing open source resources in such situations avoids teams working to reinvent the wheel and also makes it easy to identify problems during code audits.
+Open source holds a lot of significance for me, both personally and professionally. In my industry, there has been a push for open source elements recently to minimize duplication of effort. There might be situations where different groups are solving the same problem but still not getting the same answer legibly. Utilizing open source resources in such situations avoids teams working to reinvent the wheel and also makes it easy to identify problems during code audits.
 
 For me, open source is also a way to give back to the community. What is truly inspiring is that a small contribution by a single person has the potential to pay big dividends for the community at large. 
     
@@ -43,7 +43,7 @@ There have been some pretty noticeable changes as the Julia community has grown 
 
 I have also grown with the community, and have personally gained a lot of knowledge and experience. Today I have the 9th most commits to the language, and my experience has changed my role in the community in different ways. Now contributors sometimes ask me to review and merge PRs, which can be a little inconvenient when I have other stuff going. This is very different from my early days when I could do things at my own pace. I'm no longer also the only woman in the Julia community, and so I don't have to play the role of community manager whenever people wanted the opinion of women in Julia. 
 
-### What do you recommend to beginners interested in Open Source? 
+### What do you recommend to beginners interested in open source? 
 Contributors new to open source can sometimes find it difficult to find a project to work on. Some existing projects can be so large and complex that it might be hard for them to find a first issue to work on due to the many interlocking parts. I would say that new contributors should find packages that are not base projects or have only a few contributors. If there's a project with an active group of people working on it, they're bound to need help, and new contributors can start by helping with writing tests or adding documentation. I don't mean to discourage newcomers from being ambitious, but starting at a place where more experienced contributors can guide them is a good path to choose.
 
 ### What are you most excited about in technology and open source? 
