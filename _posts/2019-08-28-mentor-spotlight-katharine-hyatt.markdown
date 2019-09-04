@@ -4,7 +4,7 @@ title: "Mentor Spotlight: Katharine Hyatt"
 date: 2019-08-31 17:00:00
 categories: spotlights
 tags: featured, HackIllinois, mentors
-image:
+image: /assets/article_images/mentor-spotlight-katharine-hyatt/header.jpg
 author: Divey Anand
 ---
 
