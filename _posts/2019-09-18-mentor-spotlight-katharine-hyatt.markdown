@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mentor Spotlight: Katharine Hyatt"
-date: 2019-08-31 17:00:00
+date: 2019-09-18 17:00:00
 categories: spotlights
 tags: featured, HackIllinois, mentors
 image: /assets/article_images/mentor-spotlight-katharine-hyatt/header.jpg
