@@ -28,7 +28,7 @@ As an outsider to the coding culture, it’s amazing to see the effect of design
 
 ![The trophies given to the HackIllinois 2018 winners.](/assets/article_images/design-at-hackillinois/trophies.jpg)
 
-The next time you step into a hackathon, I urge you to take a few minutes and absorb all the design work put into it. What is the theme? What does it make you feel like? How do the tiniest of details enhance your time there? What gets you excited about that event? These answers may seem obvious at the time but take a step back and appreciate these aspects of events that may otherwise seem mandatory. Think about design and how important is it when it comes to amazing events like HackIllinois and how it transforms your experience. Good design is appealing, but exceptional design is what makes HackIllinois, HackIllinois.
+The next time you step into a hackathon, I urge you to take a few minutes and absorb all the design around you. What is the theme? How does it make you feel? What gets you excited about that event? How do the details, small or big, enhance your experience? While these answers may not seem obvious at the time, take a step back and you will learn to appreciate aspects of event planning that may otherwise seem ordinary. Think about design and how important it is in transforming your experience at events like HackIllinois. Good design is appealing, but exceptional design is what makes HackIllinois, HackIllinois.
 
 ---
 [Get ready to Explore. Connect. Build. at HackIllinois 2020.](https://www.hackillinois.org)
