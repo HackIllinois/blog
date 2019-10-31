@@ -1,7 +1,7 @@
 ---
 layout: post
 title: At the Intersection of Design and HackIllinois
-date: 2019-10-29 17:00:00
+date: 2019-10-30 17:00:00
 categories: spotlight
 tags: featured, HackIllinois
 image: /assets/article_images/design-at-hackillinois/eceb_banner.jpg
