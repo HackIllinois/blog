@@ -24,7 +24,7 @@ Design is important and all around us. It influences our experiences, our decisi
 ![A group of HackIllinois 2018 staff members take a picture in front of the photobooth in their staff t-shirts and jackets.](/assets/article_images/design-at-hackillinois/2018_photobooth.jpg)
 
 
-As an outsider in the coding community, it’s amazing to see the effect of design on attendees from all over the world. The curious build-up of branding and event designs is filled with thrill when attendees quickly look around to see the details in the Siebel and ECEB Building. When students ask if there are extra pins and stickers for their friends back home or to the intriguing UIUX design of web and mobiles, it definitely puts the cherry on top for all the hard work that our small but mighty team produces. 
+As an outsider to the coding culture, it’s amazing to see the effect of design on attendees from all over the world. The curiosity built up by the branding of the event is exciting. It's thrilling to see attendees interacting with the designs and noticing the details in the Siebel and ECEB Building. When students ask if there are extra pins and stickers for their friends back home or point out intriguing UI/UX features of the website and mobile app, it makes all the hard work worthwhile. 
 
 ![The trophies given to the HackIllinois 2018 winners.](/assets/article_images/design-at-hackillinois/trophies.jpg)
 
