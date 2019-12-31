@@ -11,7 +11,7 @@ redirect_from: application20
 
 The HackIllinois team is pleased to announce that [the application](https://www.hackillinois.org/apply) to HackIllinois 2020 has been released on our website. Acceptances to the event will be made on a rolling basis as the event approaches.
 
-Want guaranteed admission? Try out our [open source challenge](https://docs.google.com/forms/d/e/1FAIpQLSdOxUnlnZqjTaWGnU5h-NsJvvuShHXr2eBFYmFgAjZpqWtSlg/viewform). For this challenge, we are encouraging you to work on open source projects. Open at least one pull request with a significant contribution on any site between January 1, 2020 and the application deadline to a project of your choice. PRs must be made in good faith to a project beyond the scope of a personal or class project. 
+Want guaranteed admission? Try our [open source challenge](https://docs.google.com/forms/d/e/1FAIpQLSdOxUnlnZqjTaWGnU5h-NsJvvuShHXr2eBFYmFgAjZpqWtSlg/viewform). Open at least one pull request with a significant contribution on any site between January 1, 2020 and the application deadline to a project of your choice. PRs must be made in good faith to a project beyond the scope of a personal or class project. 
 
 Note that to receive automatic admission, you must also submit ad application for HackIllinois.The HackIllinois team reserves the right to deny automatic admission if you application does not meet the minimum requirements such as age or college enrollment.
 
